@@ -76,3 +76,36 @@ public class FrecuenciaCardiaca {
         }
     }
 }
+/***
+ * ===== Monitor de Frecuencia Cardíaca =====
+ * Este programa calcula y analiza tu frecuencia cardíaca.
+ * 
+ * Ingrese su nombre: Rafael
+ * Ingrese su año de nacimiento: 2006
+ * Ingrese su mes de nacimiento (1-12): 11
+ * Ingrese su día de nacimiento: 18
+ * 
+ * Hola Rafael, según tu fecha de nacimiento tienes 18 años.
+ * Tu frecuencia cardíaca máxima es: 202 bpm.
+ * Tu rango de frecuencia cardíaca esperada está entre 101 y 171 bpm.
+ * 
+ * Seleccione una opción:
+ * 1. Registrar una sesión de ejercicio
+ * 2. Salir
+ * Opción: 1
+ * 
+ * Ingrese la duración del ejercicio en minutos: 120
+ * Ingrese la frecuencia cardíaca registrada durante el ejercicio (en bpm): 170
+ * 
+ * Resultados de la sesión:
+ * Duración: 120 minutos
+ * Frecuencia registrada: 170 bpm
+ * Estado: Frecuencia dentro del rango esperado
+ * 
+ * Seleccione una opción:
+ * 1. Registrar una sesión de ejercicio
+ * 2. Salir
+ * Opción: 2
+ * 
+ * Gracias por utilizar el Monitor de Frecuencia Cardíaca.
+ */
